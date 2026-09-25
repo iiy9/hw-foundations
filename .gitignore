@@ -1,0 +1,18 @@
+# Icarus Verilog simulation output
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.vvp
+
+# Compiled simulation files
+*_sim
+sim
+sim.out
+
+# Surfer session files
+*.surfer
+*.gtkw
+
+# macOS
+.DS_Store
